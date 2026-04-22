@@ -139,10 +139,7 @@ Canada, Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Lab
 
 ---
 ### Contributors
-Wasayuddin Syed
-Oliver Simm
-Bassem Sourour
-Shayan Safaei
+Wasayuddin Syed, Oliver Simm, Bassem Sourour, Shayan Safaei
 
 
 ## License
